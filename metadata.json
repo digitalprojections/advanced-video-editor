@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Resolve - Advanced Video Editor",
+  "description": "A professional-grade video editing suite inspired by DaVinci Resolve, featuring multi-track editing, live dubbing, media management, and snapshot capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
